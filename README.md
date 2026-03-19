@@ -19,9 +19,7 @@
 
 🤖 Currently building **AI-powered web applications using OpenAI API**  
 
-🌱 Learning **DSA, Backend Development & System Design**  
-
-⚡ Goal: Become a **job-ready Software Developer in 2026**
+🌱 Learning **DSA, Backend Development & System Design** 
 
 ---
 
