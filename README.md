@@ -42,7 +42,10 @@
 • Frontend: React.js (Vite), HTML, CSS  
 • Backend: Node.js, Express.js  
 • Database: MongoDB Atlas  
-• AI: OpenAI API  
+• AI: OpenAI API 
+
+🔗 **Live Repository:**  
+👉 https://github.com/MALVIK3044/AstroInsight
 
 ---
 
